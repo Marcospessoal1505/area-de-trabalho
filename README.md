@@ -1,2 +1,4 @@
-# area de trabalho
-meu primeiro ponto de contato com a programação
+# Areá de trabalho
+Meu primeiro ponto de contato com a programação
+
+repositório criado para compreender git e github
